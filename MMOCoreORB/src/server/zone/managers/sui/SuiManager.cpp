@@ -495,15 +495,15 @@ void SuiManager::handleCharacterBuilderSelectItem(CreatureObject* player, SuiBox
 
 				//uint32 itemCrc = ( player->getSpecies() != CreatureObject::ITHORIAN ) ? 0x5DDC4E5D : 0x6C191FBB;
 				// Get CRC for appropriate type of clothing, so far pants, undershirt, and gloves
-				if (templatePath.beginsWith("malgoof_pants")
+				if (templatePath.beginsWith("malgoof_pants"))
 				{
 					uint32 itemCrc = STRING_HASHCODE("object/tangible/wearables/pants/pants_s21.iff");
 				}
-				else if (templatePath.beginsWith("malgoof_undershirt")
+				else if (templatePath.beginsWith("malgoof_undershirt"))
 				{
 					uint32 itemCrc = STRING_HASHCODE("object/tangible/wearables/shirt/shirt_s38.iff");
 				}
-				else if (templatePath.beginsWith("malgoof_gloves")
+				else if (templatePath.beginsWith("malgoof_gloves"))
 				{
 					uint32 itemCrc = STRING_HASHCODE("object/tangible/wearables/gloves/gloves_s12.iff");
 				}
