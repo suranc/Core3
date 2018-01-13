@@ -75,7 +75,8 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Malgoofs Medical Pants", "malgoof_pants_medic",
 				"Malgoofs Swordsman Shirt", "malgoof_undershirt_sword",
 				"Malgoofs Defensive Gloves", "malgoof_gloves_defense"
-			}
+			},
+			"PSG", "object/tangible/component/armor/shield_generator_personal.iff"
 		},
 		"Character Options",
 		{
