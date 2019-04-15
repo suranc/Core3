@@ -538,15 +538,15 @@ void SuiManager::handleCharacterBuilderSelectItem(CreatureObject* player, SuiBox
 
 					if(templatePath.endsWith("sword")) {
 						modName = "Sword Stuff";
-						apron->addSkillMod(SkillModManager::WEARABLE, "counterattack", 20);
+						apron->addSkillMod(SkillModManager::WEARABLE, "counterattack", 25);
 						apron->addSkillMod(SkillModManager::WEARABLE, "twohandmelee_speed", 20);
-						apron->addSkillMod(SkillModManager::WEARABLE, "twohandmelee_accuracy", 25);
 						apron->addSkillMod(SkillModManager::WEARABLE, "twohandmelee_accuracy", 25);
 					} else if(templatePath.endsWith("defense")) {
 						modName = "Defense Stuff";
 						apron->addSkillMod(SkillModManager::WEARABLE, "stun_defense", 16);
 						apron->addSkillMod(SkillModManager::WEARABLE, "melee_defense", 7);
 						apron->addSkillMod(SkillModManager::WEARABLE, "ranged_defense", 25);
+						apron->addSkillMod(SkillModManager::WEARABLE, "dodge", 10);
 					} else if(templatePath.endsWith("medic")) {
 						modName = "Bloody Medical Rags";
 						apron->addSkillMod(SkillModManager::WEARABLE, "healing_injury_treatment", 25);

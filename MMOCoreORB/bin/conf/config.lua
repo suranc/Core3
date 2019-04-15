@@ -76,7 +76,7 @@ MetricsPrefix = ""
 
 AutoReg = 1
 
-ProgressMonitors = "false"
+ProgressMonitors = "true"
 
 PingPort = 44462
 PingAllowedConnections = 3000
@@ -238,4 +238,3 @@ local localFile = loadfile("conf/config-local.lua")
 if (localFile ~= nil) then
   localFile()
 end
-
