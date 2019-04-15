@@ -76,7 +76,7 @@ MetricsPrefix = ""
 
 AutoReg = 1
 
-ProgressMonitors = "true"
+ProgressMonitors = "false"
 
 PingPort = 44462
 PingAllowedConnections = 3000
@@ -95,20 +95,20 @@ ZonesEnabled = {
 	--"11",
 	--"character_farm",
 	--"cinco_city_test_m5",
-	--"corellia",
+	"corellia",
 	--"creature_test",
-	--"dantooine",
-	--"dathomir",
-	--"dungeon1",
-	--"endor",
+	"dantooine",
+	"dathomir",
+	"dungeon1",
+	"endor",
 	--"endor_asommers",
 	--"floratest",
 	--"godclient_test",
-	--"lok",
-	--"naboo",
+	"lok",
+	"naboo",
 	--"otoh_gunga",
 	--"rivertest",
-	--"rori",
+	"rori",
 	--"runtimerules",
 	--"simple",
 	--"space_09",
@@ -128,13 +128,13 @@ ZonesEnabled = {
 	--"space_tatooine_2",
 	--"space_yavin4",
 	--"taanab",
-	--"talus",
+	"talus",
 	"tatooine",
 	--"test_wearables",
 	"tutorial",
 	--"umbra",
 	--"watertabletest",
-	--"yavin4"
+	"yavin4"
 }
 
 
