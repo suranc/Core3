@@ -76,6 +76,12 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Malgoofs Swordsman Shirt", "malgoof_undershirt_sword",
 				"Malgoofs Defensive Gloves", "malgoof_gloves_defense"
 			},
+			"Slicing",
+			{
+				"Percision Laser Knife", "object/tangible/slicing/slicing_laser_knife.lua",
+				"Armor Upgrade Kit", "object/tangible/slicing/slicing_armor_upgrade_kit.iff",
+				"Weapon Upgrade Kit", "object/tangible/slicing/slicing_weapon_upgrade_kit.lua"
+			}
 			"PSG", "object/tangible/component/armor/shield_generator_personal.iff"
 		},
 		"Character Options",

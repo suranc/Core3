@@ -45,6 +45,7 @@ object_tangible_slicing_slicing_armor_upgrade_kit = object_tangible_slicing_shar
 	templateType = SLICINGTOOL,
 	gameObjectType = 32779,
 	effectiveness = -15,
+	useCount = 100,
 
 
 	numberExperimentalProperties = {1, 1, 1, 1},

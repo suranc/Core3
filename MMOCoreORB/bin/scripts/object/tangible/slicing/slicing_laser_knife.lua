@@ -45,6 +45,7 @@ object_tangible_slicing_slicing_laser_knife = object_tangible_slicing_shared_sli
 	templateType = SLICINGTOOL,
 	gameObjectType = 32777,
 	effectiveness = 0,
+	useCount = 100,
 
 
 	numberExperimentalProperties = {1, 1, 1, 1},
