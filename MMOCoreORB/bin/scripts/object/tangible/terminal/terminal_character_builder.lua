@@ -80,7 +80,8 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			{
 				"Precision Laser Knife", "object/tangible/slicing/slicing_laser_knife.iff",
 				"Armor Upgrade Kit", "object/tangible/slicing/slicing_armor_upgrade_kit.iff",
-				"Weapon Upgrade Kit", "object/tangible/slicing/slicing_weapon_upgrade_kit.iff"
+				"Weapon Upgrade Kit", "object/tangible/slicing/slicing_weapon_upgrade_kit.iff",
+				"Weapon Upgrade Kit", "object/tangible/slicing/slicing_molecular_clamp.iff"
 			},
 			"PSG", "object/tangible/component/armor/shield_generator_personal.iff"
 		},
