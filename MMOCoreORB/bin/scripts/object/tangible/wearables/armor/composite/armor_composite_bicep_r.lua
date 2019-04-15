@@ -93,7 +93,7 @@ object_tangible_wearables_armor_composite_armor_composite_bicep_r = object_tangi
 	-- Damage types in WeaponObject
 	vulnerability = LIGHTSABER,
 
-	specialResists = ELECTRICITY,
+	specialResists = ELECTRICITY, STUN
 
 	-- These are default Blue Frog stats
 	healthEncumbrance = 0,
