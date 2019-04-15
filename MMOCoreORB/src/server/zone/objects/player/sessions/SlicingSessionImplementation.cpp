@@ -534,7 +534,9 @@ void SlicingSessionImplementation::handleWeaponSlice() {
 
 	uint8 percentage = System::random(max - min) + min;
 
-	switch(System::random(1)) {
+	// Force type to damage and percent to 30.
+	percentage = 30;
+	switch(0) {
 	case 0:
 		handleSliceDamage(percentage);
 		break;
@@ -639,6 +641,10 @@ void SlicingSessionImplementation::handleArmorSlice() {
 	}
 
 	uint8 percent = System::random(max - min) + min;
+
+	// Force type to effectiveness and percent to 30.
+	sliceType = 0;
+	percent = 30;
 
 	switch (sliceType) {
 	case 0:
