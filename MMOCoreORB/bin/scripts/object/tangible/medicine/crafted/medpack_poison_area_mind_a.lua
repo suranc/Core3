@@ -44,15 +44,15 @@
 object_tangible_medicine_crafted_medpack_poison_area_mind_a = object_tangible_medicine_crafted_shared_medpack_poison_area_mind_a:new {
 	gameObjectType = 8240,
 	templateType = DOTPACK,
-	useCount = 10,
+	useCount = 100,
 	medicineUse = 5,
 	effectiveness = 100,
-	duration = 300,
+	duration = 176,
 	range = 15,
 	rangeMod = 1.0,
 	pool = 6,
 	dotType = POISONED,
-	potency = 150,
+	potency = 91,
 	commandToExecute = "applypoison",
 	area = 10,
 
