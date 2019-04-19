@@ -44,9 +44,10 @@
 object_tangible_food_crafted_dessert_citros_snow_cake = object_tangible_food_crafted_shared_dessert_citros_snow_cake:new {
 	templateType = CONSUMABLE,
 
-	duration = 45,
-	filling = 10,
-	nutrition = 10,
+	duration = 10000,
+	filling = 28,
+	nutrition = 40,
+	useCount = 100,
 
 	effectType = 2,
 
