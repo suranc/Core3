@@ -89,9 +89,9 @@ object_tangible_wearables_armor_composite_armor_composite_helmet = object_tangib
 	specialResists = ELECTRICITY + STUN,
 
 	-- These are default Blue Frog stats
-	healthEncumbrance = 0,
-	actionEncumbrance = 0,
-	mindEncumbrance = 0,
+	healthEncumbrance = 477,
+	actionEncumbrance = 303,
+	mindEncumbrance = 496,
 
 	maxCondition = 30000,
 
