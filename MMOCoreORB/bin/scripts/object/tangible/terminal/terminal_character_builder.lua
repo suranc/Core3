@@ -83,7 +83,11 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Weapon Upgrade Kit", "object/tangible/slicing/slicing_weapon_upgrade_kit.iff",
 				"Molecular Clamp", "object/tangible/slicing/slicing_molecular_clamp.iff"
 			},
-			"PSG", "object/tangible/component/armor/shield_generator_personal.iff"
+			"PSG", "object/tangible/component/armor/shield_generator_personal.iff",
+			"Jedi",
+			{
+				"Lightsaber 2", "object/weapon/melee/polearm/lance_lightsaber_02.iff"
+			}
 		},
 		"Character Options",
 		{

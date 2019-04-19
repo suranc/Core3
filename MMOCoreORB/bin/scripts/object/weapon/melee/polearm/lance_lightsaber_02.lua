@@ -114,10 +114,10 @@ object_weapon_melee_polearm_lance_lightsaber_02 = object_weapon_melee_polearm_sh
 	maxRange = 7,
 	maxRangeAccuracy = 5,
 
-	minDamage = 105,
-	maxDamage = 195,
+	minDamage = 689,
+	maxDamage = 1034,
 
-	attackSpeed = 5.1,
+	attackSpeed = 1,
 
 	woundsRatio = 15,
 
