@@ -46,7 +46,7 @@ object_tangible_food_crafted_dish_havla = object_tangible_food_crafted_shared_di
 
 	duration = 10000,
 	filling = 33,
-	nutrition = 25,
+	nutrition = 106,
 	useCount = 100,
 
 	effectType = 3, -- Event Based Buff
