@@ -541,6 +541,11 @@ void SuiManager::handleCharacterBuilderSelectItem(CreatureObject* player, SuiBox
 						apron->addSkillMod(SkillModManager::WEARABLE, "counterattack", 25);
 						apron->addSkillMod(SkillModManager::WEARABLE, "twohandmelee_speed", 20);
 						apron->addSkillMod(SkillModManager::WEARABLE, "twohandmelee_accuracy", 25);
+					} else if(templatePath.endsWith("rifle")) {
+						modName = "Rifle Stuff";
+						apron->addSkillMod(SkillModManager::WEARABLE, "block", 25);
+						apron->addSkillMod(SkillModManager::WEARABLE, "rifle_speed", 20);
+						apron->addSkillMod(SkillModManager::WEARABLE, "rifle_accuracy", 25);
 					} else if(templatePath.endsWith("defense")) {
 						modName = "Defense Stuff";
 						apron->addSkillMod(SkillModManager::WEARABLE, "stun_defense", 16);

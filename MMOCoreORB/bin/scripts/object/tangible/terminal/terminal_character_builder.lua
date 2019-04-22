@@ -74,6 +74,7 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			{
 				"Malgoofs Medical Pants", "malgoof_pants_medic",
 				"Malgoofs Swordsman Shirt", "malgoof_undershirt_sword",
+				"Malgoofs Rifleman Shirt", "malgoof_undershirt_rifle",
 				"Malgoofs Defensive Gloves", "malgoof_gloves_defense"
 			},
 			"Slicing",
