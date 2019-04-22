@@ -95,7 +95,8 @@ ZonesEnabled = {
 	--"11",
 	--"character_farm",
 	--"cinco_city_test_m5",
-	"corellia" -- add comma, uncomment down to test to enable rest
+	"corellia",
+	"tutorial" -- add comma, uncomment down to test to enable rest
 	-- "dantooine",
 	-- "dathomir",
 	-- "dungeon1",
@@ -106,7 +107,6 @@ ZonesEnabled = {
 	-- "taanab",
 	-- "talus",
 	-- "tatooine",
-	-- "tutorial",
 	-- "yavin4"
 	--"creature_test",
 	--"endor_asommers",
