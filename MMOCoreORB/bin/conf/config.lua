@@ -96,7 +96,7 @@ ZonesEnabled = {
 	--"character_farm",
 	--"cinco_city_test_m5",
 	"corellia",
-	"tutorial", -- add comma, uncomment down to test to enable rest
+	"tutorial" -- add comma, uncomment down to test to enable rest
 	-- "dantooine",
 	-- "dathomir",
 	-- "dungeon1",
@@ -117,8 +117,8 @@ ZonesEnabled = {
 	-- "runtimerules",
 	-- "simple",
 	-- "space_09",
-	"space_corellia",
-	"space_corellia_2"
+	-- "space_corellia",
+	-- "space_corellia_2",
 	-- "space_dantooine",
 	-- "space_dathomir",
 	-- "space_endor",
